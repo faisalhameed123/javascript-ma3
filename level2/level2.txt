@@ -19,3 +19,44 @@ Level 2
 8. What is minifying JavaScript Code?
 
 9. What is a global variable?
+
+
+Answers to all the questons..........
+
+
+
+1 ,* Naming and declaration rules for variables and functions. 
+    * Rules  for the use of whitespace, indentation and comments. 
+    * Programming practices and principles.
+
+2, Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects.
+
+
+3 ,The .random() method is used to generate a random number between 0 to 1. 
+
+4, The sort() method is used to sort the array. An array can be string, number or character etc.
+
+5, The .reverse() method reverses the order of the elements in an array.
+
+6, Bad JS examples:
+
+1;  var InvId=”1001”;
+    
+     Function invGen() {
+} 
+
+2; 1==”1”; // true
+False== “ nt “; // true
+[ [ ] , [ ] ] == true; // true
+
+
+
+7, A JASON object can contain 6 data types: 
+
+Object, Arrays, Strings, Number, Booleans and Null.
+
+8, Minifying JavaScript is to remove whitespaces, strips comments, combine files, and shortens a few common programming patterns.
+
+
+9, A global variable has global scope  which means it can be defined anywhere in your JavaScript code. And global variables can easily be overwritten.
+
